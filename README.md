@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Hapits é um projeto para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](nlw-setup-two.vercel.app)
+- [Visite o projeto online](https://nlw-setup-two.vercel.app)
 
 ## 🔖 Layout
 
